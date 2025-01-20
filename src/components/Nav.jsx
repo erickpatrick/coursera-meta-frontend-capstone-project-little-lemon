@@ -1,6 +1,6 @@
 export default function Nav() {
-    return <nav>
-        <ul className="flex navigation">
+    return <nav className="w-full">
+        <ul className="py-4 flex justify-between">
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Menu</a></li>
